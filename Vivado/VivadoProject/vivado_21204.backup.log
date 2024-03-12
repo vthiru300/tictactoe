@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 15 13:27:05 2023
+# Process ID: 21204
+# Current directory: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17560 D:\Two-Player-Tic-Tac-Toe\Tic_Tac_Toe\Vivado\VivadoProject\VivadoProject.xpr
+# Log file: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/vivado.log
+# Journal file: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Checkout/Desktop/EE277A/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject' since last save.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionXsim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionModelSim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionQuesta
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionXcelium
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionVCS
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionRiviera
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorVersionActiveHdl
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionXsim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionModelSim
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionQuesta
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionXcelium
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionVCS
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionRiviera
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimulatorGccVersionActiveHdl
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.gen/sources_1', nor could it be found using path 'C:/Users/Checkout/Desktop/EE277A/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.gen/sources_1'.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name EnableResourceEstimation
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.ip_user_files', nor could it be found using path 'C:/Users/Checkout/Desktop/EE277A/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.ip_user_files'.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name ClassicSocBoot
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name LocalIPRepoLeafDirName
+ERROR: [Runs 36-378] The checkpoint 'D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.srcs/utils_1/imports/synth_1/AHBLITE_SYS.dcp' was created with 'Vivado v2021.2 (64-bit)', and cannot be opened in this version.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 15 13:39:03 2023...

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 15 13:27:05 2023
+# Process ID: 21204
+# Current directory: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17560 D:\Two-Player-Tic-Tac-Toe\Tic_Tac_Toe\Vivado\VivadoProject\VivadoProject.xpr
+# Log file: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/vivado.log
+# Journal file: D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Two-Player-Tic-Tac-Toe/Tic_Tac_Toe/Vivado/VivadoProject/VivadoProject.xpr
